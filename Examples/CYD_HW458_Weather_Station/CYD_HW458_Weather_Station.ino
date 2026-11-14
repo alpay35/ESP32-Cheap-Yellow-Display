@@ -28,10 +28,10 @@
 #include <time.h>
 
 // ==========================================
-// WIFI AYARLARI (Kendi Ag Bilgilerinizi Girin)
+// WIFI AYARLARI (Kullanici Ag Bilgileri)
 // ==========================================
-const char* WIFI_SSID     = "WIFI_ADINIZ";      // <<-- WiFi Ag Adiniz
-const char* WIFI_PASSWORD = "WIFI_SIFRENIZ";   // <<-- WiFi Sifreniz
+const char* WIFI_SSID     = "zzz";
+const char* WIFI_PASSWORD = "74107410bbb";
 
 // ==========================================
 // PIN TANIMLAMALARI (HW-458 / CYD3)
